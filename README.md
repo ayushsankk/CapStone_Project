@@ -38,3 +38,7 @@ TxReceipt Status:Success
 ```
 TxHash:0x48ef15f90e0bdee74bc0dabde92f9823928b6df6290d8b24844b683fd9f1d95e 
 TxReceipt Status:Success
+```
+
+### OpenSea Link
+https://rinkeby.opensea.io/assets/decentralized-housing-product-v2
