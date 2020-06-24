@@ -17,6 +17,12 @@ ganache-cli
 ```
 truffle migrate --reset --compile-all
 ```
+
+### test your project
+```
+truffle test
+```
+
 ### SquareVerifier Contract address 
 - https://rinkeby.etherscan.io/address/0x9a6A70883AE125dc516752BedD77919b756c9409
 ### Transaction information
