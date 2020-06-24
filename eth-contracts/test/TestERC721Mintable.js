@@ -1,4 +1,4 @@
-var ERC721MintableComplete = artifacts.require('ERC721MintableComplete');
+var ERC721MintableComplete = artifacts.require('CustomERC721Token');
 
 var SquareVerifier = artifacts.require('SquareVerifier');
 
