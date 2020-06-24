@@ -29632,7 +29632,7 @@
   },
   "networks": {},
   "schemaVersion": "3.2.0",
-  "updatedAt": "2020-06-24T10:35:38.092Z",
+  "updatedAt": "2020-06-24T10:50:11.181Z",
   "devdoc": {
     "methods": {
       "isApprovedForAll(address,address)": {

@@ -29628,7 +29628,7 @@
   },
   "networks": {},
   "schemaVersion": "3.2.0",
-  "updatedAt": "2020-06-24T10:35:38.270Z",
+  "updatedAt": "2020-06-24T10:50:11.350Z",
   "devdoc": {
     "methods": {
       "isApprovedForAll(address,address)": {
